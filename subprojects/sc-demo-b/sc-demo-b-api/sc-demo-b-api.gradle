@@ -1,0 +1,7 @@
+dependencies {
+    api lib.sc_demo_c_api
+    api lib.sp_data_jpa
+
+    testImplementation lib.sp_test
+
+}

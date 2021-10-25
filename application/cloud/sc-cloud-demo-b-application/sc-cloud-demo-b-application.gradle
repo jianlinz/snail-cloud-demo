@@ -1,0 +1,11 @@
+apply plugin: 'org.springframework.boot'
+dependencies {
+    api lib.sc_demo_b
+    api lib.sp_jwt
+    api lib.sp_session
+    api lib.sp_security
+
+    api lib.sp_cloud_nacos
+    api lib.sp_cloud_feign
+}
+

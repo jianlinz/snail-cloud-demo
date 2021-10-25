@@ -1,0 +1,7 @@
+dependencies {
+
+        api lib.sp_data_jpa
+
+        testImplementation lib.sp_test
+
+}
